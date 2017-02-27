@@ -1,0 +1,6 @@
+framework module Pods_pokeFinderTests {
+  umbrella header "Pods-pokeFinderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
